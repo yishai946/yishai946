@@ -38,8 +38,7 @@ If you have an exciting project or idea, feel free to connect.
 ### 📫 How to Reach Me
 
 - [GitHub](https://github.com/yishai946)
-- [LinkedIn](#) <!-- Add your LinkedIn URL here if you’d like -->
-- Email: <!-- Add your email here if you want -->
+- Email: yishai946@gmail.com
 
 ---
 
